@@ -2,7 +2,7 @@
 
 # Creating a Web Application for an ETF Analyzer 
 
-This is a Jupyter lab program that will build a financial database and web application to analyze an ETF performance. We will construct the ETF and visualizations of its performance using SQL, Python, and the Voilà library.
+This is a Jupyter lab program that will build a financial database and web application to analyze an ETF performance. We will construct the ETF and visualizations of its performance using SQL, Python, and the Voilà libray to open in webpage.
 
 ## Technologies
 
@@ -15,6 +15,8 @@ The project is in Jupyter Note with the following libraries:
 * [Hvplot] 
 
 * [Sqalchemy] 
+
+* [Voia] ( this will be used from terminal type [voila etf_analyzer.ipynb])
 
 ## Installation Guide
 
