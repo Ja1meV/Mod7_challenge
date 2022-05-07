@@ -22,7 +22,15 @@ Install required libraries for program to function correctly.
 
 ## Usage
 
-The program allows analyze the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application. It will analyze a single asset in the ETF, Optimize data access with Advanced SQL queries, analyze the ETF portfolio and deploy the notebook as a web application.
+The program allows analyze the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application. It will analyze a single asset in the ETF, Optimize data access with Advanced SQL queries, analyze the ETF portfolio and deploy the notebook as a web application. Use the Voilà library to deploy your notebook as a web application. See below for example. 
+
+
+
+https://user-images.githubusercontent.com/101314548/167272399-a6d5fc13-0196-4bda-9fea-ccb733291e75.mov
+
+
+
+
 
 ## Contributors
 
