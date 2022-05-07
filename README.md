@@ -1,6 +1,6 @@
 # Mod7_challenge
 
-# Mod7 Creating a Web Application for an ETF Analyzer 
+# Creating a Web Application for an ETF Analyzer 
 
 This is a Jupyter lab program that will build a financial database and web application to analyze an ETF performance. We will construct the ETF and visualizations of its performance using SQL, Python, and the Voilà library.
 
