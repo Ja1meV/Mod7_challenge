@@ -16,7 +16,7 @@ The project is in Jupyter Note with the following libraries:
 
 * [Sqalchemy] 
 
-* [Voia] ( this will be used from terminal type [voila etf_analyzer.ipynb])
+* [Voia] ( this will be used from terminal type [voila etf_analyzer.ipynb] to access webpage)
 
 ## Installation Guide
 
@@ -24,7 +24,7 @@ Install required libraries for program to function correctly.
 
 ## Usage
 
-The program allows analyze the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application. It will analyze a single asset in the ETF, Optimize data access with Advanced SQL queries, analyze the ETF portfolio and deploy the notebook as a web application. Use the Voilà library to deploy your notebook as a web application. See below for example. 
+The program analyses the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application. It will analyze a single asset in the ETF, optimize data access with advanced SQL queries, analyze the ETF portfolio and deploy the notebook as a web application. Use the Voilà library to deploy your notebook as a web application. See below for example. 
 
 
 
